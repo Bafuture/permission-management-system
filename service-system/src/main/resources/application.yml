@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: service-system
+  profiles:
+    active: dev
+knife4j:
+  enable: true
+  settings:
+    enable-dynamic-parameter: false
